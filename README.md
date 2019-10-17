@@ -61,6 +61,6 @@ python -m src.ensemble
 
 This will save the testing predictions under `xgb.csv`.
 
-## Todos:
+## Future work:
 
 - Add argument parsing so that the user does not have to edit the configuration file for each different run, and parameters can be passed as arguments instead

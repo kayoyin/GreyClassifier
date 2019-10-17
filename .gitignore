@@ -1,0 +1,10 @@
+*.csv
+*.jpeg
+notes.txt
+weights/
+venv/
+src/__pycache__/
+logs/
+__pycache__/
+blur/
+datasplit/

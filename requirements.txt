@@ -1,0 +1,9 @@
+opencv-python
+scikit-learn
+torch
+torchvision
+matplotlib
+split_folders
+pathlib
+imbalanced-learn
+xgboost
